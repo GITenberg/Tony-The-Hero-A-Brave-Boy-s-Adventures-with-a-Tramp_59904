@@ -1,5 +1,8 @@
 _repo: Tony-The-Hero-A-Brave-Boy-s-Adventures-with-a-Tramp_59904
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59904-h/images/cover.jpg
 creator:
   author:
     agent_name: Alger, Horatio, Jr.
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59904#Tony-The-Hero-A-Brave-Boy-s-Adventures-with-a-Tramp
 gutenberg_issued: '2019-07-12'
 gutenberg_type: Text
 identifiers:
